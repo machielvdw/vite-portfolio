@@ -17,7 +17,7 @@ function Navbar() {
               Contact
             </Link> */}
             <a
-              href="https://github.com/machiel27"
+              href="https://github.com/machielvdw"
               target="_blank"
               rel="noopener noreferrer"
               className="mx-4 transform transition-transform duration-300 hover:scale-125"
